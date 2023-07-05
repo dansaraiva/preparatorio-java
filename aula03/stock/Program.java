@@ -19,6 +19,8 @@ public class Program {
         int quantity = sc.nextInt();
 
         Product product = new Product(name, price, quantity);
+
+        
         System.out.println();
         System.out.println("Product data: " + product);
         System.out.println();
