@@ -1,4 +1,4 @@
-package stock.entities;
+package entities;
 
 public class Product {
 
